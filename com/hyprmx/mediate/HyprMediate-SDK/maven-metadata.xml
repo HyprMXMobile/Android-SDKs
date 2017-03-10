@@ -3,10 +3,11 @@
   <groupId>com.hyprmx.mediate</groupId>
   <artifactId>HyprMediate-SDK</artifactId>
   <versioning>
-    <release>1.1.0</release>
+    <release>1.2.0</release>
     <versions>
       <version>1.1.0</version>
+      <version>1.2.0</version>
     </versions>
-    <lastUpdated>20161111200704</lastUpdated>
+    <lastUpdated>20170308190849</lastUpdated>
   </versioning>
 </metadata>
