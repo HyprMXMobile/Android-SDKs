@@ -3,11 +3,12 @@
   <groupId>com.hyprmx.mediate</groupId>
   <artifactId>UnityAdsSDK</artifactId>
   <versioning>
-    <release>2.0.8</release>
+    <release>2.1.2</release>
     <versions>
       <version>2.0.5</version>
       <version>2.0.8</version>
+      <version>2.1.2</version>
     </versions>
-    <lastUpdated>20170308190849</lastUpdated>
+    <lastUpdated>20171218235614</lastUpdated>
   </versioning>
 </metadata>
