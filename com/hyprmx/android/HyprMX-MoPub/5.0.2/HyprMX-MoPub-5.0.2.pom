@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.hyprmx.android</groupId>
   <artifactId>HyprMX-MoPub</artifactId>
-  <version>5.0.1</version>
+  <version>5.0.2</version>
   <packaging>aar</packaging>
   <description>HyprMX MoPub SDK</description>
   <url>https://hyprmx.com</url>
