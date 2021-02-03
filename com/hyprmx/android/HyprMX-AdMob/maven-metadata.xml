@@ -2,19 +2,17 @@
 <metadata>
   <groupId>com.hyprmx.android</groupId>
   <artifactId>HyprMX-AdMob</artifactId>
+  <version>5.1.2.1</version>
   <versioning>
-    <latest>5.1.2</latest>
-    <release>5.1.2</release>
+    <latest>5.1.2.1</latest>
+    <release>5.1.2.1</release>
     <versions>
-      <version>4.3</version>
-      <version>4.3.1</version>
       <version>5.0</version>
       <version>5.0.1</version>
       <version>5.1.0</version>
-      <version>5.1.1</version>
       <version>5.1.2</version>
+      <version>5.1.2.1</version>
     </versions>
-    <lastUpdated>20200923211230</lastUpdated>
+    <lastUpdated>20210203191455</lastUpdated>
   </versioning>
 </metadata>
-  
